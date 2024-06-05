@@ -55,7 +55,7 @@ The backend is responsible for managing the job data and providing a REST API fo
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/LAYTHJABBAR/job-management-backend.git
     cd job-management-backend
     ```
 
@@ -87,7 +87,7 @@ The frontend provides a user-friendly interface for interacting with the job dat
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/LAYTHJABBAR/job-management-frontEnd.git
     cd job-management-frontend
     ```
 
